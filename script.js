@@ -18,3 +18,4 @@ function foo(data1){
     document.body.append(div);
 }
 }
+
